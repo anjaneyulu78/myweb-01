@@ -46,7 +46,7 @@ p.six {
 <p class="six">Some text.</p>
 
 <p><b>Note:</b> The "border-width" property does not work if it is used alone. 
-Always specify the "border-style" property to set the bo</p>
+Always specify the "border-style" property to set the bold</p>
 
 </body>
 </html>
